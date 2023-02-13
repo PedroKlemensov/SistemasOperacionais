@@ -4,7 +4,7 @@
 
 #define ALTURA 50
 #define LARGURA 150
-#define TAMANHO_INICIAL 1
+#define TAMANHO_INICIAL 20
 
 int M[ALTURA][LARGURA] = {{0}};
 
