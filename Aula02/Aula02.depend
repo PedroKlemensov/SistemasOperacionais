@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1675957478 source:c:\users\pedro\documents\github\sistemasoperacionais\aula02\main.c
+1675957766 source:c:\users\pedro\documents\github\sistemasoperacionais\aula02\main.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>

@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
+#include <pthread.h>
 
 #define ALTURA 50
 #define LARGURA 150
-#define TAMANHO_INICIAL 20
+#define TAMANHO_INICIAL 200
 
 int M[ALTURA][LARGURA] = {{0}};
 
