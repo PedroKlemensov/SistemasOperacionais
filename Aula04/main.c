@@ -3,9 +3,7 @@
 
 int main()
 {
-    pthread_t t1;
-
-    p
+  
 
 
     printf("Hello world!\n");

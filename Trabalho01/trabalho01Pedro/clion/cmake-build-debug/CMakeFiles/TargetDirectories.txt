@@ -1,0 +1,3 @@
+C:/Users/pedro/Documents/GitHub/SistemasOperacionais/Trabalho01/trabalho01Pedro/clion/cmake-build-debug/CMakeFiles/clion.dir
+C:/Users/pedro/Documents/GitHub/SistemasOperacionais/Trabalho01/trabalho01Pedro/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pedro/Documents/GitHub/SistemasOperacionais/Trabalho01/trabalho01Pedro/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
