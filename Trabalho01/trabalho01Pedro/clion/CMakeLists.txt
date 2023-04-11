@@ -3,4 +3,4 @@ project(clion C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(clion main.c)
+add_executable(clion main.c main2.c)

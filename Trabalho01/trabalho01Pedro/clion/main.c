@@ -12,7 +12,13 @@ typedef struct PCB PCB; // declaração avançada da struct PCB
      PCB* next;
 };
 
+int PROCESS = 5;
+int lista_de_PCBS [];
+int lista_de_burst [];
 
+for (int i= 0; i == PROCESS ; i++){
+
+}
 
 
 
@@ -27,7 +33,9 @@ int main() {
     pcb1.next=&pcb2;
 
 
-    //
+    //toda esse seçao de printes sao para testes  se os pcbs eseatao oks
+    // es para printar os dados do pcb tem que sequir esse estrutura no "%d\n", pcb#.(o dado que vc quer)
+    // caso queria o local da memoria usar p no lugar do d
     printf("%p\n", pcb1);// local da memoria do pcb1
     printf("%d\n", pcb1.pid);// pid do pcb1
     printf("%p\n", pcb2.prev);//local da memoria do prev do pcb2(PCB1)
@@ -35,5 +43,10 @@ int main() {
     printf("%d\n", pcb2.prev->pid);// pegando o pcb do prev do 2
     printf("ohayo sekai,Good morning world !\n");// apenas um ola mundo
     return 0;
+
+
+
+
+
 
 }
