@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\pedro\Documents\GitHub\SistemasOperacionais\Trabalho01\trabalho01Pedro\clion -B C:\Users\pedro\Documents\GitHub\SistemasOperacionais\Trabalho01\trabalho01Pedro\clion\cmake-build-debug
+=======
+"D:\programas\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\projetos\SistemasOperacionais\Trabalho01\trabalho01Pedro\clion -B D:\projetos\SistemasOperacionais\Trabalho01\trabalho01Pedro\clion\cmake-build-debug
+>>>>>>> Stashed changes
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/pedro/Documents/GitHub/SistemasOperacionais/Trabalho01/trabalho01Pedro/clion/cmake-build-debug
+-- Build files have been written to: D:/projetos/SistemasOperacionais/Trabalho01/trabalho01Pedro/clion/cmake-build-debug

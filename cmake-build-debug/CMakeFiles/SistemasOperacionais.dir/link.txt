@@ -1,0 +1,3 @@
+"D:\programas\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\SistemasOperacionais.dir/objects.a
+"D:\PROGRA~1\CLion 2023.1.1\bin\mingw\bin\ar.exe" qc CMakeFiles\SistemasOperacionais.dir/objects.a @CMakeFiles\SistemasOperacionais.dir\objects1
+"D:\PROGRA~1\CLion 2023.1.1\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\SistemasOperacionais.dir/objects.a -Wl,--no-whole-archive -o SistemasOperacionais.exe -Wl,--out-implib,libSistemasOperacionais.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SistemasOperacionais.dir\linkLibs.rsp
