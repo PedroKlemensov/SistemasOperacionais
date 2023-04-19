@@ -26,11 +26,7 @@
 	"objects" : 
 	[
 		{
-<<<<<<<< Updated upstream:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-11T10-44-59-0858.json
-			"jsonFile" : "codemodel-v2-539e20d23b0a37a2a495.json",
-========
 			"jsonFile" : "codemodel-v2-9918db0e6fa7aa8a71ff.json",
->>>>>>>> Stashed changes:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-09T21-37-05-0973.json
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -48,11 +44,7 @@
 			}
 		},
 		{
-<<<<<<<< Updated upstream:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-11T10-44-59-0858.json
-			"jsonFile" : "cmakeFiles-v1-ea417342b6fe98514516.json",
-========
 			"jsonFile" : "cmakeFiles-v1-a27ecf5c0f041b8435f7.json",
->>>>>>>> Stashed changes:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-09T21-37-05-0973.json
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -84,11 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-<<<<<<<< Updated upstream:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-11T10-44-59-0858.json
-			"jsonFile" : "cmakeFiles-v1-ea417342b6fe98514516.json",
-========
 			"jsonFile" : "cmakeFiles-v1-a27ecf5c0f041b8435f7.json",
->>>>>>>> Stashed changes:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-09T21-37-05-0973.json
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -98,11 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-<<<<<<<< Updated upstream:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-11T10-44-59-0858.json
-			"jsonFile" : "codemodel-v2-539e20d23b0a37a2a495.json",
-========
 			"jsonFile" : "codemodel-v2-9918db0e6fa7aa8a71ff.json",
->>>>>>>> Stashed changes:Trabalho01/trabalho01Pedro/clion/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-09T21-37-05-0973.json
 			"kind" : "codemodel",
 			"version" : 
 			{
